@@ -5,4 +5,4 @@ sqlite database as a backend.
 
 Screens : 
 
-![](1.png)  ![](2.png)  ![](3.png) 
+![](1.png){:height="50%" width="50%"}  ![](2.png){:height="50%" width="50%"}  ![](3.png) {:height="50%" width="50%"}
