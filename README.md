@@ -1,7 +1,7 @@
-# mathsformulas
+# Maths Formula App - All Maths formula in One
 
 A simple flutter Hyrid application which contains 1000+ maths formulas. this app is designed using neumorphism design pattern and 
-sqlite database as a backend.
+it has sqlite database.
 
 Screens : 
 
